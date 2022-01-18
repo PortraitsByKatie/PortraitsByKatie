@@ -1,0 +1,29 @@
+body {
+	background-color : lavender;
+}
+
+header {
+	text-align: center;
+	color: rebeccapurple;
+	font-family: Limelight;
+	font-size: x-large;
+	text-shadow: 0 0 3px #FFFFFF, 0 0 5px #0000FF;
+}
+
+footer {
+	position: absolute; 
+	bottom: 0; 
+	width: 95%;
+	height: 60px;
+}
+
+a {
+	padding-bottom: 20px;
+	float: right;
+}
+
+table {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
